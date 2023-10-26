@@ -14,7 +14,7 @@ We will use Hypothesis Testing to check if new website page helped increase cust
 ![image](https://github.com/SrijanDeo-DA-DS/Hypothesis_Testing_Chi_Square/assets/88278620/b52b5e23-f09f-4869-b315-a3d81f7b6022)
 
 4. After getting the Chi-sq statistics of 0.35 which is greater than the threshold of 0.05, we can conclude that there is no stong evidence to reject the null hypothesis
-5. ___Conclusion__ - New website did not have any significant impact on Customer Conversion
+5. __Conclusion__ - New website did not have any significant impact on Customer Conversion
 
  
 
