@@ -16,5 +16,10 @@ We will use Hypothesis Testing to check if new website page helped increase cust
 4. After getting the Chi-sq statistics of 0.35 which is greater than the threshold of 0.05, we can conclude that there is no stong evidence to reject the null hypothesis
 5. __Conclusion__ - New website did not have any significant impact on Customer Conversion
 
+Below is a sample code example to calculate Chi square in Python - 
+
+![image](https://github.com/SrijanDeo-DA-DS/Hypothesis_Testing_Chi_Square/assets/88278620/e771bcf9-0c1b-4c34-875e-349e464930e6)
+
+The first element is the Chi - Square statistics and second is the p-value. We assume a p value of 0.05 while accepting/rejecting null hypothesis
  
 
